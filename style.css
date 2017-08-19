@@ -1,0 +1,43 @@
+/* SELEKTORY: */
+body {
+	background-color: gray;
+	background-image: purple;
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 5pt; 
+	color: green;*/
+	
+	margin: 6mm;
+	/* font-style font-variant font-weight font-size/line-height font-family */
+	font: italic small-caps normal 13px/150% Arial, Helvetica, sans-serif;
+}
+
+p {
+	
+		text-align: justify;
+		color: red;
+}
+table, th, td {
+	font-size: 13pt;
+	border: 3px solid yellow;
+	
+}
+
+h1 {
+	text-align: justify;
+		color: green;
+}
+
+article {
+	font-size: 20pt;
+	
+	
+}
+
+div {
+	background-color: purple
+	width: 300px;
+	border: 30px solid yellow;
+	padding: 40px;
+	margin: 60px;
+	
+}
